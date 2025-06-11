@@ -32,6 +32,7 @@ Este repositorio contiene los ejercicios y prácticas realizadas en el curso de 
 ---
 
 🗂 Estructura de Directorios
+```plaintext
 
 └── Sistemas-Operativos-I
     ├── PCL
@@ -77,8 +78,7 @@ Este repositorio contiene los ejercicios y prácticas realizadas en el curso de 
     │   └── Varios
     │       └── Otros.txt
     └── README.md
-```plaintext
-.
+
 ├── PCL
 │   ├── bin
 │   ├── dev
