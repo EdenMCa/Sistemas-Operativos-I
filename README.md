@@ -84,14 +84,6 @@ Cada carpeta dentro de `PCL/` agrupa tipos de archivos específicos para las pr�
 
 ## 📂 Contenido de cada Módulo
 
-### `PCL/bin`
-
-Binarios y utilidades compiladas listos para ejecutar.
-
-### `PCL/dev`
-
-Órdenes de desarrollo y dispositivos simulados (ej. `CO2`).
-
 ### `PCL/Proyectos`
 
 * **P01**:
@@ -104,7 +96,7 @@ Binarios y utilidades compiladas listos para ejecutar.
   * `A02-4/`: Descifrado de datos.
 * **P03**: Simulación de procesos
 
-  * `A03.1/`: Scripts para generar ejecución en paralelo y secuencial, simuladores de gases.
+  * `A03.1/`: Scripts para generar ejecución en paralelo y secuencial, hilos.
 
 ### `PCL/Pruebas`
 
