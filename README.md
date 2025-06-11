@@ -1,4 +1,3 @@
-Sistemas Operativos
 # 🔧 Sistemas Operativos I – Proyecto del 6to Semestre
 
 > Repositorio del curso **Sistemas Operativos I** (6º semestre).
@@ -16,7 +15,7 @@ Sistemas Operativos
    * [PCL/Proyectos](#pclproyectos)
    * [PCL/Pruebas](#pclpruebas)
    * [PCL/Varios](#pclvarios)
-
+6. [Ejemplos de comandos](#ejemplos-de-comandos)
 
 ---
 
@@ -31,9 +30,9 @@ Este repositorio contiene los ejercicios y prácticas realizadas en el curso de 
 
 ---
 
-🗂 Estructura de Directorios
-```plaintext
+## 🗂 Estructura de Directorios
 
+````plaintext
 └── Sistemas-Operativos-I
     ├── PCL
     │   ├── bin
@@ -78,7 +77,8 @@ Este repositorio contiene los ejercicios y prácticas realizadas en el curso de 
     │   └── Varios
     │       └── Otros.txt
     └── README.md
-
+```plaintext
+.
 ├── PCL
 │   ├── bin
 │   ├── dev
@@ -86,7 +86,7 @@ Este repositorio contiene los ejercicios y prácticas realizadas en el curso de 
 │   ├── Pruebas
 │   └── Varios
 └── README.md
-
+````
 
 Cada carpeta dentro de `PCL/` agrupa tipos de archivos específicos para las prácticas del curso.
 
@@ -117,14 +117,15 @@ Cada carpeta dentro de `PCL/` agrupa tipos de archivos específicos para las pr�
 3. Compila y/o ejecuta:
 
    ```bash
-   cd Proyectos/P02/A02-3
-   gcc -o cencriptador.c  cencriptador
-   ./cencriptador
+   cd Proyectos/P03/A03.1
+   gcc -o sim_multi sim_multi.c -pthread
+   ./sim_multi
    ```
 
 ---
 
 ## 📂 Contenido de cada Módulo
+
 
 ### `PCL/Proyectos`
 
@@ -148,3 +149,4 @@ Cada carpeta dentro de `PCL/` agrupa tipos de archivos específicos para las pr�
 
 * `Otros.txt`: Notas varias y recursos adicionales.
 
+---
