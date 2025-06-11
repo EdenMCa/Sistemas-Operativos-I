@@ -1,4 +1,4 @@
-# 🔧 Sistemas Operativos I – Proyecto del 6to Semestre
+# 🔧 Sistemas Operativos I 
 
 > Repositorio del curso **Sistemas Operativos I** (6º semestre).
 
@@ -77,15 +77,6 @@ Este repositorio contiene los ejercicios y prácticas realizadas en el curso de 
     │   └── Varios
     │       └── Otros.txt
     └── README.md
-```plaintext
-.
-├── PCL
-│   ├── bin
-│   ├── dev
-│   ├── Proyectos
-│   ├── Pruebas
-│   └── Varios
-└── README.md
 ````
 
 Cada carpeta dentro de `PCL/` agrupa tipos de archivos específicos para las prácticas del curso.
