@@ -13,8 +13,6 @@ Sistemas Operativos
 4. [Cómo usar](#cómo-usar)
 5. [Contenido de cada Módulo](#contenido-de-cada-módulo)
 
-   * [PCL/bin](#pclbin)
-   * [PCL/dev](#pcldev)
    * [PCL/Proyectos](#pclproyectos)
    * [PCL/Pruebas](#pclpruebas)
    * [PCL/Varios](#pclvarios)
