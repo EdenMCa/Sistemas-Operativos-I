@@ -31,8 +31,52 @@ Este repositorio contiene los ejercicios y prácticas realizadas en el curso de 
 
 ---
 
-## 🗂 Estructura de Directorios
+🗂 Estructura de Directorios
 
+└── Sistemas-Operativos-I
+    ├── PCL
+    │   ├── bin
+    │   ├── dev
+    │   │   └── CO2
+    │   ├── Proyectos
+    │   │   ├── P01
+    │   │   │   ├── MendozaCasarrubiaRosendoEden_EntornoDeTrabajo.pdf
+    │   │   │   └── MendozaCasarrubiaRosendoEden_IntroduccionalosSO.pdf
+    │   │   ├── P02
+    │   │   │   ├── A02-3
+    │   │   │   │   ├── cencriptador
+    │   │   │   │   ├── cencriptador.c
+    │   │   │   │   ├── errores
+    │   │   │   │   ├── MCPV
+    │   │   │   │   ├── MCPV.c
+    │   │   │   │   ├── salida_cifrada
+    │   │   │   │   ├── salida-descifrada
+    │   │   │   │   ├── stee
+    │   │   │   │   ├── stee.c
+    │   │   │   │   └── test.sh
+    │   │   │   ├── A02-4
+    │   │   │   │   ├── descifrador
+    │   │   │   │   ├── descifrador.c
+    │   │   │   │   └── salida-descifrada
+    │   │   │   ├── MCPV
+    │   │   │   └── MCPV.c
+    │   │   └── P03
+    │   │       └── A03.1
+    │   │           ├── genera_paralelo.sh
+    │   │           ├── genera_secuencia.sh
+    │   │           ├── sim_CO2
+    │   │           ├── sim_CO2.c
+    │   │           ├── sim_H2O
+    │   │           ├── sim_H2O.c
+    │   │           ├── sim_multi
+    │   │           ├── sim_multi.c
+    │   │           ├── sim_pos
+    │   │           └── sim_pos.c
+    │   ├── Pruebas
+    │   │   └── Probabilidades
+    │   └── Varios
+    │       └── Otros.txt
+    └── README.md
 ```plaintext
 .
 ├── PCL
@@ -42,7 +86,7 @@ Este repositorio contiene los ejercicios y prácticas realizadas en el curso de 
 │   ├── Pruebas
 │   └── Varios
 └── README.md
-```
+
 
 Cada carpeta dentro de `PCL/` agrupa tipos de archivos específicos para las prácticas del curso.
 
