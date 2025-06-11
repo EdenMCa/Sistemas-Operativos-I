@@ -18,9 +18,7 @@ Sistemas Operativos
    * [PCL/Proyectos](#pclproyectos)
    * [PCL/Pruebas](#pclpruebas)
    * [PCL/Varios](#pclvarios)
-6. [Ejemplos de comandos](#ejemplos-de-comandos)
-7. [Contribución](#contribución)
-8. [Licencia](#licencia)
+
 
 ---
 
@@ -78,7 +76,7 @@ Cada carpeta dentro de `PCL/` agrupa tipos de archivos específicos para las pr�
 
    ```bash
    cd Proyectos/P02/A02-3
-   gcc cencriptador.c -o cencriptador
+   gcc -o cencriptador.c  cencriptador
    ./cencriptador < input.txt > output.txt
    ```
 
@@ -116,25 +114,3 @@ Binarios y utilidades compiladas listos para ejecutar.
 
 * `Otros.txt`: Notas varias y recursos adicionales.
 
----
-
-## 💻 Ejemplos de comandos
-
-| Comando                       | Descripción                            |
-| ----------------------------- | -------------------------------------- |
-| `gcc archivo.c -o ejecutable` | Compila un programa en C               |
-| `bash genera_paralelo.sh`     | Ejecuta simulación en paralelo         |
-| `./sim_multi`                 | Ejecuta simulación multi-hilo          |
-| `cat Otros.txt`               | Muestra contenido de notas adicionales |
-
----
-
-## 🤝 Contribución
-
-Si quieres contribuir con mejoras o corregir errores, realiza un *fork* y envía un *pull request*. Por favor, sigue la [Guía de estilo de GitHub](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repository-settings).
-
----
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
