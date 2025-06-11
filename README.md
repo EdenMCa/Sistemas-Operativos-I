@@ -77,7 +77,7 @@ Cada carpeta dentro de `PCL/` agrupa tipos de archivos espec√≠ficos para las pr√
    ```bash
    cd Proyectos/P02/A02-3
    gcc -o cencriptador.c  cencriptador
-   ./cencriptador < input.txt > output.txt
+   ./cencriptador
    ```
 
 ---
