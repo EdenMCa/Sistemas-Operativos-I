@@ -62,6 +62,10 @@ Este repositorio contiene los ejercicios y prácticas realizadas en el curso de 
     │   │   │   └── MCPV.c
     │   │   └── P03
     │   │       └── A03.1
+    │   │           ├── ejecuta
+    |   |           ├── ejecuta.c
+    │   │           ├── ejecuta_varios
+    │   │           ├── ejecuta_varios.c
     │   │           ├── genera_paralelo.sh
     │   │           ├── genera_secuencia.sh
     │   │           ├── sim_CO2
